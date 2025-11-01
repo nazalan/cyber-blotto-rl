@@ -1,0 +1,2 @@
+date,vendor,raw_value,epss_value,cvss_proxy_value,source_file,normalize_mode,normalize_sum_target,scenario,attacker_sees_epss,defender_sees_epss,attacker_sees_def_strat,defender_sees_att_strat,cvss_flatten_p
+2025-01-02,anisha,0.003375,0.0,10.0,top10_vendors_until_2025-01-02.csv,minmax,10.0,R0,True,True,False,False,0.5

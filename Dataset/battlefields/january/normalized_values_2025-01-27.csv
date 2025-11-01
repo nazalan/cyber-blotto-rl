@@ -1,0 +1,11 @@
+date,vendor,raw_value,epss_value,cvss_proxy_value,source_file,normalize_mode,normalize_sum_target,scenario,attacker_sees_epss,defender_sees_epss,attacker_sees_def_strat,defender_sees_att_strat,cvss_flatten_p
+2025-01-27,aviatrix,8.8879,7.4786307887624535,4.055084444873099,top10_vendors_until_2025-01-27.csv,minmax,10.0,R0,True,True,False,False,0.5
+2025-01-27,ivanti,1.4662149999999998,1.1400696143963696,1.5832683910015712,top10_vendors_until_2025-01-27.csv,minmax,10.0,R0,True,True,False,False,0.5
+2025-01-27,microsoft,0.7762640000000001,0.5508103530810413,1.1004996362979338,top10_vendors_until_2025-01-27.csv,minmax,10.0,R0,True,True,False,False,0.5
+2025-01-27,fortinet,0.414078,0.24148193002092017,0.7286704790832637,top10_vendors_until_2025-01-27.csv,minmax,10.0,R0,True,True,False,False,0.5
+2025-01-27,ibm,0.295341,0.14007345766448012,0.5549665159036901,top10_vendors_until_2025-01-27.csv,minmax,10.0,R0,True,True,False,False,0.5
+2025-01-27,linux,0.290966,0.13633694700175977,0.5475145164987862,top10_vendors_until_2025-01-27.csv,minmax,10.0,R0,True,True,False,False,0.5
+2025-01-27,wavlink,0.27404,0.12188113454982732,0.5176748903053263,top10_vendors_until_2025-01-27.csv,minmax,10.0,R0,True,True,False,False,0.5
+2025-01-27,google,0.262336,0.11188522122491786,0.49599262446334585,top10_vendors_until_2025-01-27.csv,minmax,10.0,R0,True,True,False,False,0.5
+2025-01-27,oracle,0.223633,0.07883055329822862,0.4163285015729831,top10_vendors_until_2025-01-27.csv,minmax,10.0,R0,True,True,False,False,0.5
+2025-01-27,code-projects,0.131332,0.0,0.0,top10_vendors_until_2025-01-27.csv,minmax,10.0,R0,True,True,False,False,0.5
